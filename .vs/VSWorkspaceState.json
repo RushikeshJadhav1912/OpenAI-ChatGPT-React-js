@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\article",
+    "\\src\\components\\brand",
+    "\\src\\components\\feature",
+    "\\src\\components\\navbar",
+    "\\src\\containers",
+    "\\src\\containers\\header",
+    "\\src\\containers\\whatGPT3"
+  ],
+  "SelectedNode": "\\public\\robots.txt",
+  "PreviewInSolutionExplorer": false
+}
